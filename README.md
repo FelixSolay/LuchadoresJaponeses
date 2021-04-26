@@ -47,33 +47,3 @@ conteniendo
 quienes domina cada participante, en el
 mismo orden en el que los participantes
 entraron.
-
-Ejemplo
-Si la entrada sumo.in fuera:
-10
-300 1500
-320 1500
-299 1580
-330 1690
-330 1540
-339 1500
-298 1700
-344 1570
-276 1678
-289 1499
-La salida sumo.out debería ser:
-1
-2
-1
-6
-3
-3
-2
-5
-0
-0
-Puntuación
-Una solución correcta tendrá 100 puntos.
-Un 45% de los casos de prueba tendrán
-un L <=5.500. Un 35% adicional tendrá
-un L inferior a 20.000.
